@@ -15,8 +15,9 @@ Thank you for considering my profile, and I am excited about the possibilities t
 <h3 align="left">Connect with me</h3>
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-sakilahmed.saju-3b5998?style=flat-square&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/sakilahmed.saju){:target="_blank" rel="noopener noreferrer"}
-[![GitHub](https://img.shields.io/badge/GitHub-saju575-181717?style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/saju575){:target="_blank" rel="noopener noreferrer"}
+<a href="https://www.facebook.com/sakilahmed.saju" target="_blank"><img src="https://img.shields.io/badge/Facebook-sakilahmed.saju-3b5998?style=flat-square&logo=facebook&logoColor=white&color=3b5998"></a>
+<a href="https://github.com/saju575" target="_blank"><img src="https://img.shields.io/badge/GitHub-saju575-181717?style=flat-square&logo=github&logoColor=white&color=181717"></a>
+
 
 
 
