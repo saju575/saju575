@@ -12,10 +12,9 @@ Thank you for considering my profile, and I am excited about the possibilities t
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/sakilahmed.saju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sakilahmed.saju" height="30" width="40" /></a>
-</p>
+<h3 align="left">Connect with me</h3>
+[![Facebook](https://img.shields.io/badge/Facebook-sakilahmed.saju-3b5998?style=flat-square&logo=facebook&logoColor=white&color=3b5998)](https://www.facebook.com/sakilahmed.saju)
+[![GitHub](https://img.shields.io/badge/GitHub-saju575-181717?style=flat-square&logo=github&logoColor=white&color=181717)](https://github.com/saju575)
 
 
 
