@@ -40,7 +40,8 @@ Hello! I recently graduated in Computer Science and Engineering from Mawlana Bha
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saju575)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://img.shields.io/github/languages/top/saju575/your-repo-name?layout=compact)](https://github.com/saju575/your-repo-name)
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=saju575&show_icons=true)  
 
