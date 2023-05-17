@@ -23,7 +23,7 @@ Hello! I recently graduated in Computer Science and Engineering from Mawlana Bha
 - 🌱 I’m currently learning MERN 
 - 📫 How to reach me: sakilahmedsaju1121@gmail.com 
 
- <h3 align="left">Things I code with</h3>
+<h3 align="left">Things I code with</h3>
  
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -40,7 +40,8 @@ Hello! I recently graduated in Computer Science and Engineering from Mawlana Bha
 
 
 
-[![Top Langs](https://img.shields.io/github/languages/top/saju575/your-repo-name?layout=compact)](https://github.com/saju575/your-repo-name)
+
+<h3 align="left">Language used in my all project</h3>
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=saju575&layout=compact&theme=dark)](https://github.com/saju575/github-stats)
