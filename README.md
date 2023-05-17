@@ -10,7 +10,7 @@ As I continue my learning journey, I am eager to apply my knowledge and gain pra
 
 Thank you for considering my profile, and I am excited about the possibilities that lie ahead in my web development career.
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,7 +25,19 @@ Thank you for considering my profile, and I am excited about the possibilities t
 - 📫 How to reach me: sakilahmedsaju1121@gmail.com 
 
  <h3 align="left">Things I code with</h3>
- (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+ [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&color=7952B3)](https://getbootstrap.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=38B2AC)](https://tailwindcss.com/)
+[![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&color=61DAFB)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&color=339933)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&color=000000)](https://expressjs.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)](https://www.mongodb.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&color=336791)](https://www.postgresql.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&color=FFCA28)](https://firebase.google.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC)](https://code.visualstudio.com/)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saju575)](https://github.com/anuraghazra/github-readme-stats)
 
