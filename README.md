@@ -2,13 +2,7 @@
 ![](https://i.ibb.co/0ZgtwFJ/Sakil-Ahmed.png)
 ### Hi there 👋, my name is Sakil Ahmed
 
-Hello there! I am a student of Computer Science and Engineering (CSE) at Mawlana Bhashani Science and Technology University. Recently, I successfully completed my graduation, and I am excited about embarking on the next phase of my journey in the field of web development.
-
-Web development has captured my interest, and I am currently focused on honing my skills in this area. Specifically, I have been delving into the MERN stack, which encompasses MongoDB, Express.js, React.js, and Node.js. This comprehensive stack allows me to develop full-stack applications efficiently and effectively.
-
-As I continue my learning journey, I am eager to apply my knowledge and gain practical experience in a professional setting. I am actively searching for job opportunities or paid internships where I can contribute my skills and passion for web development. I am enthusiastic about working with a team of experienced professionals to further enhance my abilities and contribute to meaningful projects.
-
-Thank you for considering my profile, and I am excited about the possibilities that lie ahead in my web development career.
+Hello! I recently graduated in Computer Science and Engineering from Mawlana Bhashani Science and Technology University. I'm passionate about web development and have been focusing on the MERN stack: MongoDB, Express.js, React.js, and Node.js. I'm now seeking job opportunities or paid internships to apply my skills, gain practical experience, and contribute to meaningful projects. Excited about the possibilities in my web development career!
 
 
 
