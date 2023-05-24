@@ -10,7 +10,7 @@ Hello! I recently graduated in Computer Science and Engineering from Mawlana Bha
 
 
 <a href="https://www.facebook.com/sakilahmed.saju" target="_blank"><img src="https://img.shields.io/badge/Facebook-sakilahmed.saju-3b5998?style=flat-square&logo=facebook&logoColor=white&color=3b5998"></a>
-<a href="https://www.linkedin.com/in/sakilahmedsaju" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sakilahmed%20saju-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=0077B5"></a>
+<a href="https://www.linkedin.com/in/sakilahmed-saju-8505041a4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sakilahmed%20saju-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=0077B5"></a>
 <a href="https://github.com/saju575" target="_blank"><img src="https://img.shields.io/badge/GitHub-saju575-181717?style=flat-square&logo=github&logoColor=white&color=181717"></a>
 
 
