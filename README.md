@@ -10,6 +10,7 @@ Hello! I recently graduated in Computer Science and Engineering from Mawlana Bha
 
 
 <a href="https://www.facebook.com/sakilahmed.saju" target="_blank"><img src="https://img.shields.io/badge/Facebook-sakilahmed.saju-3b5998?style=flat-square&logo=facebook&logoColor=white&color=3b5998"></a>
+<a href="https://www.linkedin.com/in/sakilahmedsaju" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sakilahmed%20saju-0077B5?style=flat-square&logo=linkedin&logoColor=white&color=0077B5"></a>
 <a href="https://github.com/saju575" target="_blank"><img src="https://img.shields.io/badge/GitHub-saju575-181717?style=flat-square&logo=github&logoColor=white&color=181717"></a>
 
 
@@ -35,8 +36,10 @@ Hello! I recently graduated in Computer Science and Engineering from Mawlana Bha
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
 
 
 
